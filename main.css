@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 1rem;
+    padding: 1rem;
+  }
+  
+  body {
+    font-family: sans-serif;
+  }
+
+  .zero {
+    box-sizing: content-box;
+    size:
+  }
+  /* .main {
+    max-width: 38rem;
+    padding: 1.5rem;
+    margin: auto;
+  }
+
+  button {
+    box-sizing: border-box;
+    border: 2px solid #cccccc;
+    margin: 10rem 0 10rem 0;
+    padding: 1rem;
+    line-height: 10;
+  } */
